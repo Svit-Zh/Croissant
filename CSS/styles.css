@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(209, 184, 154);
+  background-color: rgb(223, 202, 125);
 }
 h1,
 p {
@@ -15,4 +15,10 @@ footer {
 footer a {
   margin: 0 10px;
   color: green;
+}
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px;
 }
